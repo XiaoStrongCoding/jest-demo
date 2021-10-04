@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`测试toMatchSnapshot 1`] = `
+Object {
+  "port": "8089",
+  "server": "https://demo.com",
+}
+`;
